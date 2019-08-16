@@ -1,5 +1,5 @@
 {
-  "name": "@jedwards1211/commitlint-config",
+  "name": "@jcoreio/commitlint-config",
   "version": "0.0.0-development",
   "description": "my commitlint config",
   "main": "commitlint.config.js",
@@ -21,15 +21,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jedwards1211/commitlint-config.git"
+    "url": "https://github.com/jcoreio/commitlint-config.git"
   },
   "keywords": [
     "commitlint"
   ],
   "bugs": {
-    "url": "https://github.com/jedwards1211/commitlint-config/issues"
+    "url": "https://github.com/jcoreio/commitlint-config/issues"
   },
-  "homepage": "https://github.com/jedwards1211/commitlint-config#readme",
+  "homepage": "https://github.com/jcoreio/commitlint-config#readme",
   "dependencies": {
     "@commitlint/config-conventional": "^6.1.3"
   },
@@ -39,6 +39,6 @@
     "eslint": "^4.16.0",
     "eslint-watch": "^3.1.3",
     "husky": "^0.14.3",
-    "semantic-release": "^12.4.1"
+    "semantic-release": "^15.13.21"
   }
 }
